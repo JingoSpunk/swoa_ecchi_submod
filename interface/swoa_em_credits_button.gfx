@@ -1,0 +1,8 @@
+spriteTypes = {
+
+    spriteType = {
+        name = "GFX_swoa_em_credits_button"
+        texturefile = "gfx/interface/credits/credits_button.dds"
+    }
+
+}

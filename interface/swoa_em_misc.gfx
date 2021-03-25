@@ -1,0 +1,13 @@
+spriteTypes = {
+    frameAnimatedSpriteType = {
+        name = "GFX_swoa_em_maid"
+        texturefile = "gfx/interface/maid_anim.dds"
+        noOfFrames = 63
+
+        animation_rate_fps = 20
+        looping = yes
+        play_on_show = yes
+        pause_on_loop = 0
+        allwaystransparent = yes
+    }
+}

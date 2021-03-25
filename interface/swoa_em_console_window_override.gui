@@ -1,0 +1,49 @@
+guiTypes = {
+    windowType = {
+        name = "console_wnd"
+        position = { x=5 y=100 }
+        size = { x=473 y=400 }
+        moveable = 0
+        orientation="UPPER_LEFT"
+
+        iconType = {
+            position = {
+                x = 0
+                y = -54
+            }
+            name = "swoa_em_animation"
+            spriteType = "GFX_swoa_em_maid"
+            scale = 0.60
+        }
+
+        # Console list of entries
+        listBoxType =
+        {
+            name ="console_list"
+            background = "GFX_console_win_bg"
+            position = { x=0 y=7 }
+            orientation = "UPPER_LEFT"
+            priority = 100
+            size = { x=468 y=322 }
+            borderSize = { x=0 y=0 }
+            offset = { x=0 y=70 }
+            scrollbartype = "standardlistbox_slider"
+            alwaystransparent = yes
+        }
+
+        # Text edit box
+        editBoxType = {
+            position = { x = 0 y = 410  }
+            name = "console_edit"
+            textureFile = "gfx\\interface\\small_tiles_dialog.dds"
+            font = "Arial12"
+            borderSize = { x=4 y=4 }
+            size = { x=500 y=40 }
+            text = " "
+            orientation = "UPPER_LEFT"
+            instantTextBoxType = no
+            cursor = { x = 0 y = 8 }
+        }
+
+    }
+}
