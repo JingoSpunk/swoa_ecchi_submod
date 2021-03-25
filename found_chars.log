@@ -1,0 +1,390 @@
+Search Path: ./history/countries
+	File: ./history/countries\DDR - East Germany.txt
+		Country Leader: Jake Richter
+		Country Leader: Monika
+	File: ./history/countries\ENG - Britain.txt
+		Country Leader: Alice Margatroid
+		Country Leader: Florence Nightingale
+		Country Leader: Violet Evergarden
+		Country Leader: Rosetta
+		Country Leader: Eve
+		Field Marshal: Tifa Lockhart
+		Field Marshal: Aerith Gainsborough
+		General: Darjeeling
+		General: Ciel Alencon
+		General: Dille Blood
+		General: Lucid
+		General: Amelia Rose Brettingham
+		General: Karen Kujou
+		General: Gloria
+		General: Noelle
+		General: Merlin
+		General: Lee-Enfield
+		General: Irene White
+		General: Velvet Crowe
+		General: Aoyama Blue Mountain
+		General: Robin
+		General: Gou Inaba
+		General: Marnie
+		General: Tenten Hourei
+		General: Helianthus
+		General: Renown
+		General: Corrin
+		General: Lilith
+		Admiral: Belfast
+		Admiral: Sirius
+		Admiral: Dido
+		Admiral: Terror
+		Admiral: Illustrious
+		Admiral: Monarch
+		Admiral: Cheshire
+		Admiral: Nelson
+		Admiral: Victorious
+		Admiral: Prince of Wales
+		Operative: Amelia Watson
+		Operative: Iida Romero
+		Operative: June Emmons
+		Operative: Margharet Nearl
+	File: ./history/countries\FRA - France.txt
+		Country Leader: Alice Zuberg
+		Country Leader: Jeanne D'Arc
+		Country Leader: Jean Bart
+		Country Leader: Indomitable Marie
+		General: Oshida
+		General: Osakabe-Hime
+		Field Marshal: Katarina Claes
+		Field Marshal: Chloe Lemaire
+		Field Marshal: Mash Kyrielight
+		Field Marshal: Claire
+		General: Andou
+		General: Marie
+		General: Charlotte Dunois
+		General: Asparagus
+		General: Gaston-Henri Billotte
+		General: Henry Freydenberg
+		General: René Olry
+		Admiral: Dunkerque
+		Admiral: Richelieu
+		Admiral: Gascogne
+		Admiral: Surcouf
+		Admiral: Tartu
+		Operative: Camilla
+		Operative: Charlotte Hazellink
+		Operative: Louise
+		Operative: Sophie Neuenmuller
+	File: ./history/countries\GER - Germany.txt
+		Country Leader: Erika Itsumi
+		Country Leader: Ilyasviel von Einzbern
+		Country Leader: Monika
+		Field Marshal: Kar98K
+		Field Marshal: Tanya Degurechaff
+		General: Erica Hartmann
+		General: Erwin
+		General: WA2000
+		General: G36
+		General: Nachi
+		General: Mio Akiyama
+		General: Yukari Akiyama
+		Field Marshal: G28
+		General: Hong Meiling
+		General: Chiyo Shimada
+		General: Reisen Udongein Inaba
+		General: G36C
+		General: Sakuya Iyazoi
+		General: Umi Sonoda
+		General: Eirin Yagokoro
+		General: Riza Brenner
+		General: DSR50
+		General: Shiho Nishizumi
+		General: HK416
+		General: Honoka Kousaka
+		General: Suigintou
+		General: Asuka Langley Soryu
+		General: Maho Nishizumi
+		General: Yui Hirasawa
+		General: Azusa Nakano
+		General: Sturmgewehr 44
+		Admiral: Bismarck
+		Admiral: Prinz Eugen
+		Admiral: Graf Zeppelin
+		Admiral: Tirpitz
+		Admiral: Graf Spee
+		Admiral: Deutschland
+		Operative: Otto Skorzeny
+		Operative: W
+		Operative: Prinz Eugen
+	File: ./history/countries\ITA - Italy.txt
+		Country Leader: Anchovy
+		Country Leader: Suzuhara Lulu
+		Country Leader: Takagaki Kaede
+		Country Leader: Reisalin Stout
+		Field Marshal: Frolaytia Capistrano
+		Field Marshal: SAT 8
+		General: Carpaccio
+		General: Pepperoni
+		General: Saori Takebe
+		General: Amaretto
+		General: Bianca
+		Field Marshal: SPAS-12
+		Admiral: Pola
+		Admiral: Zara
+		Admiral: Roma
+		Admiral: Littorio
+		Admiral: Aquila
+		Operative: Maurizio Giglio
+	File: ./history/countries\JAP - Japan.txt
+		Country Leader: Nishi Kinuyo
+		Country Leader: Reimu Hakurei
+		Country Leader: Hatsune Miku
+		General: Chika Fujiwara
+		Field Marshal: Riamu Yumemi
+		Field Marshal: Isuzu
+		General: Sendai
+		General: Ai-Chan
+		General: Katori
+		General: Asashio
+		General: Yuki Onna
+		General: Shirogane Noel
+		General: Yuuko Yoshida
+		General: Hosomi
+		General: Momiji Inubashiri
+		General: Youko Mizuno
+		General: Yumi
+		General: Mio Sakamoto
+		General: Type 100
+		General: Ise
+		General: Yuyuko Saigyouji
+		General: Nakajima Nishiki
+		General: Asuka Tanaka
+		General: Akitsu Maru
+		General: Haruhi Suzumiya
+		General: Reina Kousaka
+		General: Yuki Nagato
+		General: Yuuna Yunohana
+		General: Momo Velia Deviluke
+		General: Misaka Mikoto
+		General: Yui
+		Admiral: Akagi
+		Admiral: Suruga
+		Admiral: Kongou
+		Admiral: Takao
+		Admiral: Haruna
+		Admiral: Kirishima
+		Admiral: I-26
+		Admiral: Atago
+		Admiral: Kaga
+		Admiral: Yamato
+		Admiral: Nagato
+		Admiral: Hiei
+		Operative: Mei Izumi
+		Operative: Shirase Sakuya
+	File: ./history/countries\MAN - Manchukou.txt
+		Country Leader: Aisin Gioro Puyi
+		Country Leader: Aisin Gioro Puyi
+		General: Zhang Haipeng
+		General: Zhang Jinghui
+		General: Aisin Gioro Xiqia
+		General: Mei Izumi
+	File: ./history/countries\SOV - Soviet union.txt
+		Country Leader: Sovetskaya Rossiya
+		Country Leader: Anastasia
+		Country Leader: Alexander Fyodorovich Kerensky
+		General: Nonna
+		General: AK-12
+		General: AK-15
+		General: Mosin Nagant
+		General: Eli Ayase
+		General: Klara
+		General: Mako Reizei
+		Field Marshal: 9A-91
+		Field Marshal: KSVK
+		Field Marshal: AN-94
+		General: KV-1
+		General: Slavya
+		General: Minami Nitta
+		Field Marshal: PK
+		General: Saiga-12
+		General: Yunyun
+		General: SV-98
+		General: Tatianna Alexandrovna Krovskaya
+		General: PTRD-41
+		General: Irina Vladimirovna Putina
+		General: Ilya
+		General: RPK-16
+		General: OTs-14
+		General: FEater
+		General: Elena
+		General: Yuri Sakazaki
+		General: Ruby Rose
+		General: Shizuka Rin
+		General: Olga Marie Animusphere
+		General: Anastasia
+		General: Millia Rage
+		General: Kolin
+		General: Nina Kalinina
+		General: Anna Nishikinomiya
+		Admiral: Gangut
+		Admiral: Avrora
+		Admiral: Verniy
+		Admiral: Chapayev
+		Admiral: Tashkent
+		Operative: Pamiat Merkuria
+		Operative: Istina
+		Operative: Rosa
+	File: ./history/countries\WGR - West Germany.txt
+		Country Leader: Klaus Klauser
+		Country Leader: Ilyasviel von Einzbern
+Search Path: ./common/decisions
+	File: ./common/decisions\anti_japan_infiltration.txt
+	File: ./common/decisions\formable_nation_decisions.txt
+		Country Leader: Anchovy
+		Country Leader: Aristotle Onassis
+	File: ./common/decisions\GER.txt
+		Country Leader: Josef Terboven
+		Country Leader: Josef Terboven
+		Country Leader: Arthur Seyss-Inquart
+		Country Leader: Arthur Seyss-Inquart
+		Country Leader: Josef Grohe
+		Country Leader: Josef Grohe
+		Country Leader: Hinrich Lohse
+		Country Leader: Erich Koch
+		General: Roon
+	File: ./common/decisions\SS.txt
+		Field Marshal: Heidimarie Schnaufer
+Search Path: ./common/national_focus
+	File: ./common/national_focus\france.txt
+		Country Leader: Anthuria
+		Operative: Jacques Duclos
+		Country Leader: Jeanne D'Arc
+		Country Leader: Bradamante
+		Country Leader: Hisako Arato
+		Country Leader: Marie Antoinette
+		Country Leader: Karyl
+		Country Leader: Pekorine
+		Country Leader: Alice Nakiri
+		Country Leader: Erina Nakiri
+	File: ./common/national_focus\germany.txt
+		General: Alexander von Falkenhausen
+		Country Leader: Takagaki Kaede
+	File: ./common/national_focus\mexico.txt
+		Field Marshal: Plutarco E. Calles
+		Field Marshal: Plutarco E. Calles
+		Country Leader: Lázaro Cárdenas
+		Country Leader: Plutarco E. Calles
+		Country Leader: Vicente Lombardo
+		Country Leader: Plutarco E. Calles
+		Field Marshal: Saturnino Cedillo Martínez
+		Field Marshal: Saturnino Cedillo Martínez
+		General: José Gonzalo Escobar
+		General: José Gonzalo Escobar
+		Country Leader: Lázaro Cárdenas
+		Country Leader: Plutarco E. Calles
+		General: Pablo González Garza
+		General: Pablo González Garza
+		Country Leader: Luis María Martínez
+		General: Jesús Degollado Guízar
+		Country Leader: Plutarco E. Calles
+		Country Leader: Saturnino Cedillo
+		Country Leader: AK-47
+	File: ./common/national_focus\uk.txt
+		Country Leader: Morgan Le Fay
+		Country Leader: Ara Haan
+Search Path: ./events
+	File: ./events\Britain.txt
+		Country Leader: Florence Nightingale
+		Country Leader: Florence Nightingale
+		Country Leader: Caren Hortensia
+		Country Leader: Morgan Le Fay
+		Country Leader: Alice Margatroid
+	File: ./events\France.txt
+		Country Leader: Indomitable Marie
+		Country Leader: Andou
+		Country Leader: Paul Reynaud
+	File: ./events\Germany.txt
+		Country Leader: Heidimarie Schnaufer
+		Country Leader: Perrine H Clostermann
+		Country Leader: Heidimarie Schnaufer
+		Country Leader: Heidimarie Schnaufer
+		Country Leader: Perrine H Clostermann
+	File: ./events\Mexico.txt
+		Field Marshal: Saturnino Cedillo
+		General: Manuel Sánchez
+		Country Leader: Saturnino Cedillo
+		Country Leader: Saturnino Cedillo
+		Country Leader: Francisco Múgica
+		Country Leader: Manuel Ávila Camacho
+		Country Leader: Saturnino Cedillo
+		Country Leader: Vicente Lombardo
+		Country Leader: Francisco Múgica
+		Country Leader: Manuel Ávila Camacho
+		Country Leader: Vicente Lombardo
+		Country Leader: Francisco Múgica
+		Country Leader: Dionisio Encina
+		Country Leader: Hernán Laborde
+		Country Leader: AK-47
+		Country Leader: Saturnino Cedillo
+		Country Leader: Jesús Degollado Guízar
+		Country Leader: Salvador Abascal
+		Country Leader: Valentín Campa
+		Country Leader: Hernán Laborde
+		Field Marshal: Jesús Degollado Guízar
+		General: Alberto Gorostieta Vega
+		General: Dionisio Navarro Anguiano
+		Country Leader: Jesús Degollado Guízar
+		Country Leader: Luis María Martínez
+		Field Marshal: Plutarco E. Calles
+		General: Vicente Lombardo
+		General: Adolfo de la Huerta
+		Country Leader: Adolfo de la Huerta
+		Country Leader: Plutarco E. Calles
+		Country Leader: Vicente Lombardo
+		Country Leader: Saturnino Cedillo
+		Country Leader: Juan Andreu
+	File: ./events\MTG_Britain.txt
+		Country Leader: Fallen Government
+		Country Leader: Florence Nightingale
+		Country Leader: Eve
+		Country Leader: Ara Haan
+		Country Leader: Artoria Pendragon
+		Country Leader: Mordred
+	File: ./events\MTG_Netherlands.txt
+		Country Leader: Dirk Jan de Geer
+		Country Leader: Pieter Sjoerds Gerbrandy
+		Country Leader: Wilhelmina
+		Country Leader: Heinrike
+	File: ./events\NewsEvents.txt
+		Country Leader: Ara Haan
+		Country Leader: Eve
+	File: ./events\SovietUnion.txt
+		Country Leader: AK-47
+		Country Leader: Klara
+		Country Leader: OTs-14
+		Country Leader: OTs-14
+		Country Leader: OTs-14
+		Country Leader: OTs-14
+	File: ./events\ss_recruitment_event.txt
+		Country Leader: Heidimarie Schnaufer
+		Country Leader: Perrine H Clostermann
+		Country Leader: Tanya Degurechaff
+	File: ./events\WTT_Germany.txt
+		Country Leader: Friedrich der Grosse
+		Country Leader: Wilhelmina
+		Country Leader: Heinrike
+		Country Leader: Wilhelmina
+		Country Leader: Takagaki Kaede
+		Country Leader: Heinrike
+		Country Leader: Heinrike
+		Country Leader: Heinrike
+		Country Leader: Heinrike
+		Country Leader: Heidimarie Schnaufer
+		Field Marshal: G28
+		General: G36C
+		General: DSR50
+		General: Suigintou
+		Country Leader: Otto von Habsburg
+		Country Leader: Irisdina
+		Country Leader: Señor Hilter
+		Operative: Achim Hund
+		Operative: Andrea Hund
+	File: ./events\WTT_Japan.txt
+		Country Leader: Nishi Kinuyo
